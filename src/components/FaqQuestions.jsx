@@ -50,7 +50,9 @@ function AccordionAlwaysOpen({ FAQCardData }) {
                         ))}
                     </div>
                 </div>
-
+                <div className='text-center font-extrabold text-2xl pb-20'>
+                    Marne se Pahle ae Musalman Karley ispr Gaur Babo ka Khuda or Hai or Kitabo ka khuda or!!
+                </div>
             </div>
         </Fragment>
     );
