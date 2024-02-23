@@ -42,7 +42,7 @@ function AccordionAlwaysOpen({ FAQCardData }) {
 
                                     <AccordionBody>
 
-                                        <p className="text-sm font-medium text-[#2e2d2d] p-3 rounded-lg capitalize bg-blue-gray-50 text-center " dangerouslySetInnerHTML={{ __html: item.body }} />
+                                        <p className="text-lg font-medium text-[#2e2d2d] p-3 rounded-lg capitalize bg-blue-gray-50 text-center " dangerouslySetInnerHTML={{ __html: item.body }} />
                                     </AccordionBody>
 
                                 </Accordion>
